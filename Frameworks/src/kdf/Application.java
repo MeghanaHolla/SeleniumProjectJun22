@@ -18,6 +18,7 @@ public class Application {
 			switch(data[i][3]) {
 				case "openBrowser":
 					Methods.openBrowser();
+					//Making changes to the code after R1.1
 					break;
 				case "maxBrowser":
 					Methods.maximizeBrowserWindow();
